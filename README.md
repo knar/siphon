@@ -2,15 +2,15 @@
 
 Little wrapper to share files using a Google Cloud Platform bucket.
 
-## Setup
-- Create a bucket on GCP
-- Add members to the bucket's permissions through the GCP console
-- Edit the `bucket` name in the script
-
 ## Install and Run
 - Download `sip`
 - `chmod +x sip`
 - `./sip` or add it to your bash path
+
+## Setup
+- Create a bucket on GCP
+- Add members to the bucket's permissions through the GCP console
+- Edit the `bucket` name in the script
 
 ## Usage
 - `login` to login to your GCP google account with access to the bucket
