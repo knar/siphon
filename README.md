@@ -22,3 +22,8 @@ Little wrapper to share files using a Google Cloud Platform bucket.
 ## Dependencies
 - `bash 4.0+`
 - `gcloud` and `gsutil` from Google's Cloud SDK
+
+## Todo
+- [ ] `del` option to delete from bucket
+- [ ] Download and rename
+- [ ] Get rid of option loop model for native tab completing and more freedom? 
